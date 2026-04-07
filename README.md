@@ -135,7 +135,6 @@ Ecommerce-API/
 ```
 
 ---
-
 ## 🔌 API Endpoints
 
 ### **Users - Authentication & Profile**
