@@ -77,9 +77,9 @@ This will install all required packages:
 The `.env` file contains all configuration variables:
 
 ```env
-DB_URL=mongodb+srv://dumpmailtr_db_user:Tirthrana1712@ecommerce-api.xyipycq.mongodb.net/?appName=Ecommerce-API
-PORT=9000
-JWT_SECRET=Tirthrana1712
+DB_URL=" "
+PORT=" "
+JWT_SECRET=Your secret key
 ```
 
 **Important:** Keep `.env` file secure and never commit it to version control.
